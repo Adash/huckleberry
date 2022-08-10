@@ -7,6 +7,30 @@ html,
 body {
   margin: 0;
   padding: 0;
+  --space-8px: 8px;
+  --space-16px: 16px;
+  --space-24px: 24px;
+  --space-32px: 32px;
+  --space-48px: 48px;
+  --space-64px: 64px;
+  --space-96px: 96px;
+  --space-128px: 128px;
+
+  --font-size-normal: 1rem;
+  --font-size-medium: 1.25rem;
+  --font-size-large: 1.5rem;
+  --font-size-xlarge: 2rem;
+
+  --colour-primary: hsl(160deg, 100%, 30%);
+  --colour-secondary: -`hsl(45deg, 100%, 50%);
+  --colour-secondary-darker: hsl(45deg, 100%, 40%);
+
+  --colour-gray-black: hsl(0deg, 0%, 0%);
+  --colour-gray-vdark: hsl(0deg, 0%, 10%);
+  --colour-gray-dark: hsl(0deg, 0%, 30%);
+  --colour-gray-medium: hsl(0deg, 0%, 40%);
+  --colour-gray-light: hsl(0deg, 0%, 60%);
+  --colour-gray-white: hsl(0deg, 0%, 100%);
 }
 
 /* Add styles here! */
